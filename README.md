@@ -1,12 +1,3 @@
 - 👋 Hi, I’m @MrJohnJoy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MrJohnJoy/MrJohnJoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> git remote add origin https://github.com/MrJohnJoy/MrJohnJoy.git
-  git branch -M main
-  git push -u origin main
+-https://www.youtube.com/@MrJohn_Joy
+Pls Subsribe
